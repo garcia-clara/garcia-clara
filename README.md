@@ -1,7 +1,7 @@
 # Hi there, I'm Clara <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 <img align="right" alt="GIF" height="400px" src="https://imgtr.ee/images/2023/06/02/SxxXr.png" />
 
-- 👨‍💻 I’m currently working at la Banque de France as Webdesigner
+- 👨‍💻 I’m currently working at Banque de France as Webdesigner
 - 📚 I’m currently studying software engineering at EPITECH Paris
 - 💪🏼 Future Goals: Learning everything about JavaScript!
 - ⚡ Fun fact: I also do digital art 🖌️
