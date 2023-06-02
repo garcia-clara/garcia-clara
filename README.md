@@ -1,15 +1,12 @@
 # Hi there, I'm Clara <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
-
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
-## I'm a Computer Science Student  
+<img align="right" alt="GIF" height="400px" src="https://imgtr.ee/images/2023/06/02/SxxXr.png" />
 
 - 👨‍💻 I’m currently working at la Banque de France as a Webdesigner apprentice
 - 📚 I’m currently studying software engineering at EPITECH Paris
 - 💪🏼 Future Goals: Learning everything about JavaScript!
 - ⚡ Fun fact: I also do digital art 🖌️
 
----
+##
 
 ### Languages and Tools 🛠 
 
@@ -38,10 +35,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-
 <br/>
 
----
+##
 
 ### Contact 📝
 
