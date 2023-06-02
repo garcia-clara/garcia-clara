@@ -7,7 +7,7 @@
 - 👨‍💻 I’m currently working at la Banque de France as a Webdesigner apprentice
 - 📚 I’m currently studying software engineering at EPITECH Paris
 - 💪🏼 Future Goals: Learning everything about JavaScript!
-- ⚡ Fun fact: I do digital art 🖌️
+- ⚡ Fun fact: I also do digital art 🖌️
 
 ---
 
@@ -44,7 +44,6 @@
 ---
 
 ### Contact 📝
-
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/clara-garcia-9845891b8/)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=0769787867&text=Hi!)
