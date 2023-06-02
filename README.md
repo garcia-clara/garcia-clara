@@ -3,8 +3,8 @@
 
 - 👨‍💻 I’m currently working at Banque de France as Webdesigner
 - 📚 I’m currently studying software engineering at EPITECH Paris
-- 💪🏼 Future Goals: Learning everything about JavaScript!
-- ⚡ Fun fact: I also do digital art 🖌️
+- 💪🏼 Future Goals : Learning everything about JavaScript!
+- ⚡ Fun fact : I also do digital art 🖌️
 
 ##
 
