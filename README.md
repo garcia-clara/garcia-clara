@@ -1,5 +1,5 @@
 # Hi there, I'm Clara <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
-<img align="right" alt="GIF" height="400px" src="https://imgtr.ee/images/2023/06/02/SxxXr.png" />
+<img align="right" alt="GIF" height="400px" src="https://imgtr.ee/images/2023/06/05/bdCLA.png" />
 
 - 👨‍💻 I’m currently working at Orange as Web Developer
 - 📚 I’m currently studying software engineering at EPITECH Paris
