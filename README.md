@@ -1,4 +1,4 @@
-# Hi there, I'm Clara <img width="30px" src="https://emoji.gg/emoji/wavegif_1860" />
+# Hi there, I'm Clara <img width="30px" src="[https://emoji.gg/emoji/wavegif_1860](https://cdn3.emoji.gg/emojis/wavegif_1860.gif)" />
 <img align="right" alt="PNG" height="400px" src="https://i.ibb.co/5ngXwRV/octocat-1705400830551.png" />
 
 - 👨‍💻 I’m currently working at Orange as Full Stack Developer
