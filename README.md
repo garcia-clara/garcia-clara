@@ -1,5 +1,5 @@
 # Hi there, I'm Clara <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
-<img align="right" alt="GIF" height="150px" src="https://media2.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif" />
+<img align="right" alt="GIF" height="150px" src="https://media2.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif](https://i.ibb.co/5ngXwRV/octocat-1705400830551.png" />
 
 - 👨‍💻 I’m currently working at Orange as Full Stack Developer
 - 📚 I’m currently studying software engineering at EPITECH Paris
