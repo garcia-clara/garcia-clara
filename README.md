@@ -1,4 +1,4 @@
-# Hi there, I'm Clara <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Clara <img width="30px" src="https://emoji.gg/emoji/wavegif_1860" />
 <img align="right" alt="PNG" height="400px" src="https://i.ibb.co/5ngXwRV/octocat-1705400830551.png" />
 
 - 👨‍💻 I’m currently working at Orange as Full Stack Developer
