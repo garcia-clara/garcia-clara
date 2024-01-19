@@ -1,7 +1,7 @@
 # Hi there, I'm Clara <img width="30px" src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" />
 <img align="right" alt="PNG" height="400px" src="https://i.ibb.co/5ngXwRV/octocat-1705400830551.png" />
 
-- 👨‍💻 I’m currently working at Orange as a **Software Engineer**
+- 👨‍💻 I’m currently working at **Orange** as a **Software Engineer**
 - 📚 I’m currently studying at **EPITECH Paris**
 - 🌱 I’m currently learning **C# and Unity**
 - ⚡ Fun fact : I also do digital art 🖌️
