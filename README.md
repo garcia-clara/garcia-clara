@@ -6,6 +6,10 @@
 - 🌱 I’m currently learning **C# and Unity**
 - ⚡ Fun fact : I also do digital art 🖌️
 
+### Some projects :
+
+- https://pokedex-fefkh02le-clara-garcia.vercel.app/
+
 ##
 
 ### Languages and Tools 🛠 
