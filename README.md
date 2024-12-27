@@ -1,5 +1,4 @@
 # Hi there, I'm Clara <img width="30px" src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" />
-<img align="right" alt="PNG" height="400px" src="https://i.ibb.co/2SSWDTn/octocat-1734089551244.png" />
 
 - 👨‍💻 I’m currently working at **Orange** as a **Software Engineer**
 - 📚 I’m currently studying at **EPITECH Paris**
