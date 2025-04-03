@@ -14,26 +14,33 @@
 
 ### Languages and Tools 🛠 
 
-#### Front-End
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,javascript,react,next,daisyui,shadcn)
+| Front-end |
+|-----------|
+| ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,javascript,react,next,daisyui,shadcn) | 
 
-#### Back-End
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,php,symfony&theme=light)
+| Back-end |
+|-----------|
+| ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,php,symfony,blank,blank,blank,blank,blank&theme=light) |
 
-#### Database and ORM
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,mariadb,mongodb,prisma&theme=light)
+| Database and ORM |
+|-----------|
+| ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,mariadb,mongodb,prisma,blank,blank,blank,blank&theme=light) |
 
-#### Design
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=photoshop,figma,canva&theme=light)
+| Design |
+|-----------|
+| ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=photoshop,figma,canva,blank,blank,blank,blank,blank&theme=light) |
 
-#### CMS
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=wordpress,drupal&theme=light)
+| CMS |
+|-----------|
+| ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=wordpress,drupal,blank,blank,blank,blank,blank,blank&theme=light) |
 
-#### Tools
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,vscode,idea,postman,notion,jira&theme=light)
+| Tools |
+|-----------|
+| ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,vscode,idea,postman,notion,jira&theme=light) |
 
-#### Hosting
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vercel&theme=light)
+| Hosting |
+|-----------|
+| ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vercel,blank,blank,blank,blank,blank,blank,blank&theme=light) |
 
 ##
 
