@@ -2,7 +2,7 @@
 
 - 👨‍💻 I’m currently working at **Orange** as a **Software Engineer**
 - 📚 I’m currently studying at **EPITECH Paris**
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next JS**
 - ⚡ Fun fact : I also do digital art 🖌️
 
 ### Some projects :
