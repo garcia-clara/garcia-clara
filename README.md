@@ -21,7 +21,7 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,php,symfony&theme=light)
 
 #### Database and ORM
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,prisma&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,mariadb,mongodb,prisma&theme=light)
 
 #### Design
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=photoshop,figma,canva&theme=light)
