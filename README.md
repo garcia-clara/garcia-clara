@@ -1,9 +1,8 @@
 # Hi there, I'm Clara <img width="30px" src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" />
 
-- 👨‍💻 I’m currently working at **Orange** as a **Software Engineer**
+- 👨‍💻 I’m currently working at **AXA Investment Managers** as a **Software Engineer**
 - 📚 I’m currently studying at **EPITECH Paris**
-- 🌱 I’m currently learning **Next JS**
-- ⚡ Fun fact : I also do digital art 🖌️
+- 🌱 I’m currently learning **C#**
 
 ### Some projects :
 
